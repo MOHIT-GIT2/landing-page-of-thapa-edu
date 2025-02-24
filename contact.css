@@ -1,0 +1,8 @@
+@media (max-width: 1024px) and (min-width: 320px) {
+  .grid-two--col {
+    grid-template-columns: 1fr;
+  }
+  .contact-content .grid {
+    gap: 1.4rem;
+  }
+}
